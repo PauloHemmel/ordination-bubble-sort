@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-#define TAM 10
+#define TAM 9
 
 int main()
 {
